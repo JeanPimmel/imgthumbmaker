@@ -1,2 +1,2 @@
 # imgthumbmaker
-thumbnail little project
+thumbnail little project v1
