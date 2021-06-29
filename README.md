@@ -23,4 +23,5 @@ python thumb.py {images folder} {the name you want the thumbnail images folder t
 ## Ideas to next versions
 
 web page (js)
+
 receive uploaded images
